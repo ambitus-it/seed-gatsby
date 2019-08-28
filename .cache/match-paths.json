@@ -1,0 +1,10 @@
+[
+    {
+        "path": "/pt-br/404/",
+        "matchPath": "/pt-br/*"
+    },
+    {
+        "path": "/en/404/",
+        "matchPath": "/en/*"
+    }
+]

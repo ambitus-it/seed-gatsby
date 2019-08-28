@@ -1,0 +1,6 @@
+export const blue = ''
+export const darkblue = '#1B2854'
+export const orange = '#dd5626'
+export const green = '#CCDC2F'
+export const whitegray = '#f9f9f9'
+export const gray = '#EEEEEF'

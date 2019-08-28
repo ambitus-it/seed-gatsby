@@ -1,0 +1,31 @@
+{
+  "name": "browser-lang",
+  "version": "0.1.0",
+  "license": "MIT",
+  "description": "",
+  "repository": "github:wiziple/browser-lang",
+  "bugs": "https://github.com/wiziple/browser-lang/issues",
+  "homepage": "https://github.com/wiziple/browser-lang",
+  "keywords": [
+    "browser language",
+    "language detect",
+    "accepted language",
+    "default language",
+    "i18n"
+  ],
+  "author": "Daewoong Moon <wiziple@gmail.com>",
+  "main": "./dist/index.js",
+  "scripts": {
+    "clean": "rimraf dist",
+    "test": "jest test --watch",
+    "build": "babel src --out-dir dist",
+    "format": "prettier --write {src,test}/**/*.{js,jsx}"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.4.4",
+    "@babel/core": "^7.4.5",
+    "@babel/preset-env": "^7.4.5",
+    "jest": "^24.8.0",
+    "prettier": "^1.18.0"
+  }
+}
