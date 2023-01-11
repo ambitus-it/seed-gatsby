@@ -20,7 +20,7 @@
     "gatsby-plugin-sharp": "^2.2.18",
     "gatsby-plugin-sitemap": "^2.2.9",
     "gatsby-source-filesystem": "^2.1.18",
-    "gatsby-transformer-remark": "^2.6.19",
+    "gatsby-transformer-remark": "^5.25.1",
     "gatsby-transformer-sharp": "^2.2.12",
     "react": "^16.5.1",
     "react-dom": "^16.5.1",
